@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "rating": "4.6/5",
+    "name": "Fatema",
+    "review": "I hope that I would get perfect service during warranty period. Hope for the best!"
+  },
+  {
+    "id": 2,
+    "rating": "4.1/5",
+    "name": "Kamal",
+    "review": "the customer service is very responsive and helpful."
+  },
+  {
+    "id": 3,
+    "rating": "4.3/5",
+    "name": "Rasida",
+    "review": "Authentic Product. Fast delivery. Totally satisfied. Best at this price range."
+  },
+  {
+    "id": 4,
+    "rating": "4.6/5",
+    "name": "Hahib",
+    "review": " Some instructions on how to run the activators should be included."
+  },
+  {
+    "id": 5,
+    "rating": "4.1/5",
+    "name": "Rakib",
+    "review": "good product....... thanks. delivery early!"
+  },
+  {
+    "id": 6,
+    "rating": "4.0/5",
+    "name": "Shahana",
+    "review": "this is a nice laptop.its look like very premium.i love it very much"
+  }
+]
