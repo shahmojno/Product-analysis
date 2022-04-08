@@ -1,0 +1,14 @@
+.dashboard{
+    display: flex;
+    margin: 50px;
+    padding: 20px;
+   
+
+}
+
+.headline{
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(223, 17, 106);
+}
+

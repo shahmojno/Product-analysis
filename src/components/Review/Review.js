@@ -15,7 +15,7 @@ const Review = () => {
     return (
 
         <div >
-            <div>
+            <div className='customer-review'>
                 < h3 > Customer Total Reviews: {reviews.length} </h3 >
             </div>
             <div className='review-container'>
