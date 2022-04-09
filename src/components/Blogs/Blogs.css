@@ -1,0 +1,30 @@
+.blogs{
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(223, 17, 106); 
+}
+
+.blogs-text{
+    text-align: left;
+    width: 600px;
+    margin: 50px 300px;
+     
+}
+
+
+
+.blogs-text h4{
+    text-align: left;
+    
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(223, 17, 106);
+}
+
+.blogs-text p{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(158, 137, 147);
+    line-height: 1.7rem;
+    letter-spacing: 1,5rem;
+}
